@@ -1,0 +1,2 @@
+[19-Dec-2019 09:52:52 America/New_York] PHP Warning:  require(/home/mothcngw/public_html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/mothcngw/public_html/public/index.php on line 24
+[19-Dec-2019 09:52:52 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/mothcngw/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mothcngw/public_html/public/index.php on line 24
